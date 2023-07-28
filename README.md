@@ -3,12 +3,20 @@ A Blockchain Application using Web 3.0, solidity, JavaScript that can send ether
 
 The UI has been designed with the help of Tailwind CSS and viteReact.
 
-<img width="1111" alt="Screenshot 2023-07-22 at 1 12 54 AM" src="https://github.com/sameersk2k/Web-3.0-Blockchain-Application/assets/115322069/86456b93-11d8-4b95-8de7-3e2cf53b7822">
+<img width="1438" alt="Screenshot 2023-07-28 at 5 46 25 PM" src="https://github.com/sameersk2k/Web-3.0-Blockchain-Application/assets/115322069/ed3a1121-8ddc-456f-9697-e9ff574d1ac1">
+
 
 ## Commands
 ```
-npm install vite@latest                                            inside client folder
+npm init vite@latest                                            inside client folder
+npm install
+npm run dev
+npm install react-icons ethers@5.7.2
+
 npm install -D tailwindcss postcss prefixer                         inside client folder
+npx tailwindcss init -p
+
+npm init -y                inside smart_contract to create package.json
 
 ```
 ```
